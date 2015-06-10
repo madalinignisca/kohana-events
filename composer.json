@@ -1,0 +1,16 @@
+{
+  "name": "unxp/kohana-events",
+  "description": "Event system for Kohana framework",
+  "keywords": ["kohana", "event", "module", "helper", "system"],
+  "homepage": "https://github.com/unxp/kohana-events",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ernestas Kvedaras",
+      "email": "kvedarasernestas@gmail.com"
+    }
+  ],
+  "require" : {
+    "php": ">=5.2.4"
+  }
+}
