@@ -3,7 +3,7 @@ Kohana Events
 
 ### Event system for Kohana framework ###
 
-Version 1.0
+Version 1.0.0
 
 Released on 2015-06-10
 
